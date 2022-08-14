@@ -18,14 +18,11 @@ body{
     display: flex;
 }
 .corazon {
-    width: 30px;
-    height: 25px;
-    padding: 5px;
+    width: 31px;
+    height: 31px;
+    padding: 6px;
     margin: 12px;
-    border-radius: 50px;
-    border-color: black;
-    border-width: 1px;
-    border-style: solid;
+    
 }
 .punto{
     width: 16px;
